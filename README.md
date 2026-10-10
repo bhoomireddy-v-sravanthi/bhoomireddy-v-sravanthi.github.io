@@ -1,6 +1,6 @@
-# I’m Sravanthi, a design verification engineer in Dresden, Germany. I’ve spent 4+ years finding the bugs that hide in chips before they reach silicon, using SystemVerilog, UVM, SVA and formal verification with JasperGold. I verify hardware by day, and I write about it and write fiction the rest of the time.
+I’m Sravanthi, a design verification engineer in Dresden, Germany. I’ve spent 4+ years finding the bugs that hide in chips before they reach silicon, using SystemVerilog, UVM, SVA and formal verification with JasperGold. I verify hardware by day, and I write about it and write fiction the rest of the time.
 
-Design verification engineer. This repo is my portfolio, seven pages you move through by swiping, dragging or pressing the arrow keys.
+# Design verification engineer. This repo is my portfolio, seven pages you move through by swiping, dragging or pressing the arrow keys.
 
 **Live site: https://bhoomireddy-v-sravanthi.github.io/**
 
